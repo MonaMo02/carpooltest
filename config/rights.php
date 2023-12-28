@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
     
- //les fonctions test permettent de s'assurer que seul les utilisateurs habilités peuvent acceder à certaines pages, et dans le cas contraires sont redirigés vers la page d'accueil   
+ //les fonctions testjj permettent de s'assurer que seul les utilisateurs habilités peuvent acceder à certaines pages, et dans le cas contraires sont redirigés vers la page d'accueil   
     
 function test_visiteur(){
     session_start();
