@@ -7,7 +7,6 @@
  */
     
  //les fonctions test permettent de s'assurer que seul les utilisateurs habilités peuvent acceder à certaines pages, et dans le cas contraires sont redirigés vers la page d'accueil   
-  //pas besoin de commenter, les tests parlent d'eux-memes  
     
 function test_visiteur(){
     session_start();
