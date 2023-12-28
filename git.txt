@@ -1,0 +1,5 @@
+publish new branch/directory git checkout -b new-branch-name
+stage and commit changes: git add .
+                            git commit -m "Your commit message"
+push changes: git push origin <branch-name>
+
